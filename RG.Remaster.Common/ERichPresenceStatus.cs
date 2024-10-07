@@ -1,0 +1,11 @@
+namespace RG.Remaster.Common;
+
+public enum ERichPresenceStatus
+{
+	MENU,
+	SURVIVAL,
+	SCAVENGE,
+	CHALLENGE_SURVIVAL_INTRO,
+	CHALLENGE_SURVIVAL,
+	CHALLENGE_SCAVENGE
+}
